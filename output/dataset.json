@@ -1,0 +1,1001 @@
+[
+  {
+    "question": "What is the fiscal year of the Company?",
+    "ground_truth_answer": "52- or 53-week period",
+    "source_passage": "The Company\u2019s fiscal year is the 52- or 53-week period that ends on the last Saturday of September.",
+    "question_type": "fact_extraction",
+    "difficulty": "easy",
+    "section": "Business",
+    "chunk_id": "chunk_001"
+  },
+  {
+    "question": "How many types of wireless headphones does the Company's line of wireless headphones include?",
+    "ground_truth_answer": "4",
+    "source_passage": "The Company\u2019s line of wireless headphones includes AirPods \u00ae , AirPods Pro \u00ae , AirPods Max \u00ae and Beats \u00ae products.",
+    "question_type": "numeric_calculation",
+    "difficulty": "medium",
+    "section": "Business",
+    "chunk_id": "chunk_001"
+  },
+  {
+    "question": "What is the name of the Company's media streaming and gaming device?",
+    "ground_truth_answer": "Apple TV 4K",
+    "source_passage": "Apple TV 4K \u00ae , the Company\u2019s media streaming and gaming device based on its tvOS \u00ae operating system,",
+    "question_type": "fact_extraction",
+    "difficulty": "easy",
+    "section": "Business",
+    "chunk_id": "chunk_001"
+  },
+  {
+    "question": "What is the name of the Company's spatial computer?",
+    "ground_truth_answer": "Apple Vision Pro",
+    "source_passage": "Apple Vision Pro\u2122 is the Company\u2019s spatial computer based on its visionOS \u00ae operating system.",
+    "question_type": "fact_extraction",
+    "difficulty": "easy",
+    "section": "Business",
+    "chunk_id": "chunk_001"
+  },
+  {
+    "question": "How many reportable segments does the Company manage its business on?",
+    "ground_truth_answer": "5",
+    "source_passage": "The Company manages its business primarily on a geographic basis. The Company\u2019s reportable segments consist of the Americas, Europe, Greater China, Japan and Rest of Asia Pacific.",
+    "question_type": "numeric_calculation",
+    "difficulty": "medium",
+    "section": "Business",
+    "chunk_id": "chunk_001"
+  },
+  {
+    "question": "What is the name of the Company's line of multipurpose tablets?",
+    "ground_truth_answer": "iPad",
+    "source_passage": "iPad iPad \u00ae is the Company\u2019s line of multipurpose tablets based on its iPadOS \u00ae operating system.",
+    "question_type": "fact_extraction",
+    "difficulty": "easy",
+    "section": "Business",
+    "chunk_id": "chunk_001"
+  },
+  {
+    "question": "What percentage of the Company's net sales came from direct distribution channels in 2025?",
+    "ground_truth_answer": "40%",
+    "source_passage": "During 2025, the Company\u2019s net sales through its direct and indirect distribution channels accounted for 40% and 60%, respectively, of total net sales.",
+    "question_type": "fact_extraction",
+    "difficulty": "easy",
+    "section": "Business",
+    "chunk_id": "chunk_002"
+  },
+  {
+    "question": "What are the primary markets in which the Company's customers are located?",
+    "ground_truth_answer": "consumer, small and mid-sized business, education, enterprise and government",
+    "source_passage": "The Company\u2019s customers are primarily in the consumer, small and mid-sized business, education, enterprise and government markets.",
+    "question_type": "fact_extraction",
+    "difficulty": "easy",
+    "section": "Business",
+    "chunk_id": "chunk_002"
+  },
+  {
+    "question": "What percentage of the Company's net sales came from indirect distribution channels in 2025?",
+    "ground_truth_answer": "60%",
+    "source_passage": "During 2025, the Company\u2019s net sales through its direct and indirect distribution channels accounted for 40% and 60%, respectively, of total net sales.",
+    "question_type": "fact_extraction",
+    "difficulty": "easy",
+    "section": "Business",
+    "chunk_id": "chunk_002"
+  },
+  {
+    "question": "What are the principal competitive factors important to the Company?",
+    "ground_truth_answer": "price, product and service features (including security features), relative price and performance, product and service quality and reliability, design and technology innovation, a strong third-party software and accessories ecosystem, marketing and distribution capability, service and support, corporate reputation, and the ability to effectively protect and enforce the Company\u2019s intellectual property rights",
+    "source_passage": "Principal competitive factors important to the Company include price, product and service features (including security features), relative price and performance, product and service quality and reliability, design and technology innovation, a strong third-party software and accessories ecosystem, marketing and distribution capability, service and support, corporate reputation, and the ability to effectively protect and enforce the Company\u2019s intellectual property rights.",
+    "question_type": "fact_extraction",
+    "difficulty": "hard",
+    "section": "Business",
+    "chunk_id": "chunk_002"
+  },
+  {
+    "question": "What are some of the Company's competitors' advantages?",
+    "ground_truth_answer": "broad product lines, low-priced products, large installed bases of active devices, and large customer bases",
+    "source_passage": "Some of the Company\u2019s competitors have broad product lines, low-priced products, large installed bases of active devices, and large customer bases.",
+    "question_type": "fact_extraction",
+    "difficulty": "medium",
+    "section": "Business",
+    "chunk_id": "chunk_002"
+  },
+  {
+    "question": "What are some of the challenges the Company faces in the markets it competes in?",
+    "ground_truth_answer": "aggressive price competition, downward pressure on gross margins, continual improvement in product performance, and price sensitivity on the part of consumers and businesses",
+    "source_passage": "The markets for the Company\u2019s products and services are highly competitive and are characterized by aggressive price competition, downward pressure on gross margins, continual improvement in product performance, and price sensitivity on the part of consumers and businesses.",
+    "question_type": "fact_extraction",
+    "difficulty": "hard",
+    "section": "Business",
+    "chunk_id": "chunk_002"
+  },
+  {
+    "question": "How can consumer confidence and spending be materially adversely affected?",
+    "ground_truth_answer": "in response to changes in fiscal and monetary policy, financial market volatility, declines in income or asset values, and other economic factors",
+    "source_passage": "In addition, consumer confidence and spending can be materially adversely affected in response to changes in fiscal and monetary policy, financial market volatility, declines in income or asset values, and other economic factors.",
+    "question_type": "fact_extraction",
+    "difficulty": "medium",
+    "section": "Risk Factors",
+    "chunk_id": "chunk_003"
+  },
+  {
+    "question": "What are some examples of business interruptions that can have a material adverse effect on the Company?",
+    "ground_truth_answer": "political events, trade and other international disputes, geopolitical tensions, conflict, terrorism, natural disasters, public health issues, industrial accidents",
+    "source_passage": "Political events, trade and other international disputes, geopolitical tensions, conflict, terrorism, natural disasters, public health issues, industrial accidents and other business interruptions can have a material adverse effect on the Company and its customers, employees, suppliers, contract manufacturers, logistics providers, distributors, cellular network carriers and other channel partners.",
+    "question_type": "fact_extraction",
+    "difficulty": "easy",
+    "section": "Risk Factors",
+    "chunk_id": "chunk_003"
+  },
+  {
+    "question": "What are some potential impacts on the Company's financial instruments due to adverse economic conditions?",
+    "ground_truth_answer": "declines in the fair values",
+    "source_passage": "Adverse economic conditions can also lead to increased credit and collectibility risk on the Company\u2019s trade receivables; the failure of derivative counterparties and other financial institutions; limitations on the Company\u2019s ability to issue new debt; reduced liquidity; and declines in the fair values of the Company\u2019s financial instruments.",
+    "question_type": "fact_extraction",
+    "difficulty": "easy",
+    "section": "Risk Factors",
+    "chunk_id": "chunk_003"
+  },
+  {
+    "question": "What is the relationship between the Company's operations and global and regional economic conditions?",
+    "ground_truth_answer": "The Company\u2019s operations and performance depend significantly on global and regional economic conditions.",
+    "source_passage": "The Company\u2019s operations and performance depend significantly on global and regional economic conditions and adverse economic conditions can materially adversely affect the Company\u2019s business, results of operations, financial condition and stock price.",
+    "question_type": "fact_extraction",
+    "difficulty": "easy",
+    "section": "Risk Factors",
+    "chunk_id": "chunk_003"
+  },
+  {
+    "question": "What are some factors that can impact consumer confidence and spending?",
+    "ground_truth_answer": "economic factors",
+    "source_passage": "In addition, consumer confidence and spending can be materially adversely affected in response to changes in fiscal and monetary policy, financial market volatility, declines in income or asset values, and other economic factors.",
+    "question_type": "fact_extraction",
+    "difficulty": "easy",
+    "section": "Risk Factors",
+    "chunk_id": "chunk_003"
+  },
+  {
+    "question": "What are some potential impacts on the Company's business due to adverse economic conditions?",
+    "ground_truth_answer": "increased credit and collectibility risk on the Company\u2019s trade receivables; the failure of derivative counterparties and other financial institutions; limitations on the Company\u2019s ability to issue new debt; reduced liquidity; and declines in the fair values of the Company\u2019s financial instruments",
+    "source_passage": "Adverse economic conditions can also lead to increased credit and collectibility risk on the Company\u2019s trade receivables; the failure of derivative counterparties and other financial institutions; limitations on the Company\u2019s ability to issue new debt; reduced liquidity; and declines in the fair values of the Company\u2019s financial instruments.",
+    "question_type": "fact_extraction",
+    "difficulty": "hard",
+    "section": "Risk Factors",
+    "chunk_id": "chunk_003"
+  },
+  {
+    "question": "What countries are the Company's manufacturing partners primarily located in?",
+    "ground_truth_answer": "China mainland, India, Japan, South Korea, Taiwan and Vietnam",
+    "source_passage": "A significant majority of the Company\u2019s manufacturing is performed in whole or in part by outsourcing partners located primarily in China mainland, India, Japan, South Korea, Taiwan and Vietnam, in addition to sourcing from partners and facilities located in the U.S.",
+    "question_type": "fact_extraction",
+    "difficulty": "easy",
+    "section": "Risk Factors",
+    "chunk_id": "chunk_004"
+  },
+  {
+    "question": "What is the source of a significant majority of the Company's total net sales?",
+    "ground_truth_answer": "Sales outside the U.S.",
+    "source_passage": "The Company has a large, global business with sales outside the U.S. representing a majority of the Company\u2019s total net sales, and the Company believes that it generally benefits from growth in international trade.",
+    "question_type": "fact_extraction",
+    "difficulty": "easy",
+    "section": "Risk Factors",
+    "chunk_id": "chunk_004"
+  },
+  {
+    "question": "What is the impact of trade and other international disputes on the macroeconomic environment?",
+    "ground_truth_answer": "It can result in shifts and reductions in consumer spending and negative consumer sentiment.",
+    "source_passage": "Trade and other international disputes can also have an adverse impact on the overall macroeconomic environment and result in shifts and reductions in consumer spending and negative consumer sentiment for the Company\u2019s products and services, all of which can further adversely affect the Company\u2019s business and results of operations.",
+    "question_type": "fact_extraction",
+    "difficulty": "easy",
+    "section": "Risk Factors",
+    "chunk_id": "chunk_004"
+  },
+  {
+    "question": "What is the approximate time frame when new tariffs were announced on imports to the U.S.? ",
+    "ground_truth_answer": "Second quarter of 2025",
+    "source_passage": "Beginning in the second quarter of 2025, new tariffs were announced on imports to the U.S. (\u201cU.S. Tariffs\u201d), including additional tariffs on imports from China, India, Japan, South Korea, Taiwan, Vietnam and the European Union (\u201cEU\u201d), among others.",
+    "question_type": "fact_extraction",
+    "difficulty": "easy",
+    "section": "Risk Factors",
+    "chunk_id": "chunk_004"
+  },
+  {
+    "question": "What is the impact of a significant escalation of geopolitical tensions or conflict on global supply chains?",
+    "ground_truth_answer": "It can result in significant disruptions.",
+    "source_passage": "Global supply chains can be highly concentrated, and an escalation of geopolitical tensions or conflict could result in significant disruptions.",
+    "question_type": "fact_extraction",
+    "difficulty": "easy",
+    "section": "Risk Factors",
+    "chunk_id": "chunk_004"
+  },
+  {
+    "question": "What is the impact of restrictive measures on the Company's business and supply chain?",
+    "ground_truth_answer": "It can be expensive, time-consuming and disruptive.",
+    "source_passage": "Changing the Company\u2019s business and supply chain in accordance with new or changed restrictions on international trade can be expensive, time-consuming and disruptive to the Company\u2019s business and results of operations.",
+    "question_type": "fact_extraction",
+    "difficulty": "easy",
+    "section": "Risk Factors",
+    "chunk_id": "chunk_004"
+  },
+  {
+    "question": "What is the potential impact of disputes and conflicts further escalating on the actions by governments in response?",
+    "ground_truth_answer": "Actions by governments in response could be significantly more severe and restrictive.",
+    "source_passage": "If disputes and conflicts further escalate, actions by governments in response could be significantly more severe and restrictive.",
+    "question_type": "fact_extraction",
+    "difficulty": "hard",
+    "section": "Risk Factors",
+    "chunk_id": "chunk_004"
+  },
+  {
+    "question": "What can happen to the Company's business due to industrial accidents at its suppliers?",
+    "ground_truth_answer": "serious injuries or loss of life, disruption to the Company's business, and harm to the Company's reputation",
+    "source_passage": "While the Company\u2019s suppliers are required to maintain safe working environments and operations, an industrial accident could occur and could result in serious injuries or loss of life, disruption to the Company\u2019s business, and harm to the Company\u2019s reputation.",
+    "question_type": "fact_extraction",
+    "difficulty": "easy",
+    "section": "Risk Factors",
+    "chunk_id": "chunk_005"
+  },
+  {
+    "question": "What can happen to the Company's business due to pandemics?",
+    "ground_truth_answer": "materially adversely affect the Company",
+    "source_passage": "Major public health issues, including pandemics such as the COVID-19 pandemic, have adversely affected, and could in the future materially adversely affect, the Company due to their impact on the global economy and demand for consumer products;",
+    "question_type": "fact_extraction",
+    "difficulty": "easy",
+    "section": "Risk Factors",
+    "chunk_id": "chunk_005"
+  },
+  {
+    "question": "How can the Company's business be affected by a business interruption?",
+    "ground_truth_answer": "require substantial recovery time, incur significant expenditures to resume operations, and lose significant sales",
+    "source_passage": "Following any interruption to its business, the Company can require substantial recovery time, incur significant expenditures to resume operations, and lose significant sales.",
+    "question_type": "fact_extraction",
+    "difficulty": "easy",
+    "section": "Risk Factors",
+    "chunk_id": "chunk_005"
+  },
+  {
+    "question": "What is the impact of rapid technological change on the Company's business?",
+    "ground_truth_answer": "the Company may be unable to compete effectively in these markets",
+    "source_passage": "Global markets for the Company\u2019s products and services are highly competitive and subject to rapid technological change, and the Company may be unable to compete effectively in these markets.",
+    "question_type": "fact_extraction",
+    "difficulty": "easy",
+    "section": "Risk Factors",
+    "chunk_id": "chunk_005"
+  },
+  {
+    "question": "What is the impact of the Company's reliance on single or limited sources for the supply and manufacture of many critical components?",
+    "ground_truth_answer": "a business interruption affecting such sources would exacerbate any negative consequences to the Company",
+    "source_passage": "Because the Company relies on single or limited sources for the supply and manufacture of many critical components, a business interruption affecting such sources would exacerbate any negative consequences to the Company.",
+    "question_type": "fact_extraction",
+    "difficulty": "medium",
+    "section": "Risk Factors",
+    "chunk_id": "chunk_005"
+  },
+  {
+    "question": "What is the main factor that determines the Company's ability to compete successfully?",
+    "ground_truth_answer": "ensuring the continuing and timely introduction of innovative new products, services and technologies to the marketplace",
+    "source_passage": "The Company\u2019s ability to compete successfully depends heavily on ensuring the continuing and timely introduction of innovative new products, services and technologies to the marketplace.",
+    "question_type": "fact_extraction",
+    "difficulty": "easy",
+    "section": "Risk Factors",
+    "chunk_id": "chunk_005"
+  },
+  {
+    "question": "What can happen to the Company's business due to regulatory requirements, government investigations and litigation?",
+    "ground_truth_answer": "the Company may have to withdraw from, or modify its products and services for, certain countries and limit its ability to derive value from, or to enjoin others from using, its intellectual property rights",
+    "source_passage": "Regulatory requirements, government investigations and litigation can force the Company to withdraw from, or modify its products and services for, certain countries and limit its ability to derive value from, or to enjoin others from using, its intellectual property rights.",
+    "question_type": "fact_extraction",
+    "difficulty": "medium",
+    "section": "Risk Factors",
+    "chunk_id": "chunk_005"
+  },
+  {
+    "question": "What is a significant challenge the company faces in protecting its intellectual property?",
+    "ground_truth_answer": "Effective intellectual property protection is not consistently available in every country in which the Company operates.",
+    "source_passage": "Effective intellectual property protection is not consistently available in every country in which the Company operates.",
+    "question_type": "fact_extraction",
+    "difficulty": "easy",
+    "section": "Risk Factors",
+    "chunk_id": "chunk_006"
+  },
+  {
+    "question": "How do some of the company's competitors offer more competitive solutions?",
+    "ground_truth_answer": "by imitating the Company's product features and applications within their products",
+    "source_passage": "as well as established hardware, software and service offerings. In addition, the Company faces significant competition as competitors imitate the Company\u2019s product features and applications within their products to offer more competitive solutions.",
+    "question_type": "fact_extraction",
+    "difficulty": "easy",
+    "section": "Risk Factors",
+    "chunk_id": "chunk_006"
+  },
+  {
+    "question": "What is a potential outcome if the company is unable to compete successfully?",
+    "ground_truth_answer": "its business, reputation, results of operations, financial condition and stock price can be materially adversely affected.",
+    "source_passage": "If the Company is unable to compete successfully, its business, reputation, results of operations, financial condition and stock price can be materially adversely affected.",
+    "question_type": "fact_extraction",
+    "difficulty": "easy",
+    "section": "Risk Factors",
+    "chunk_id": "chunk_006"
+  },
+  {
+    "question": "What are some of the factors that contribute to the success of new product and service introductions?",
+    "ground_truth_answer": "the Company\u2019s ability to recruit and retain highly skilled personnel to execute on its strategic initiatives, and the timely and successful development and market acceptance of new products, services and technologies.",
+    "source_passage": "The success of new product and service introductions depends on a number of factors, including the Company\u2019s ability to recruit and retain highly skilled personnel to execute on its strategic initiatives, and the timely and successful development and market acceptance of new products, services and technologies.",
+    "question_type": "fact_extraction",
+    "difficulty": "medium",
+    "section": "Risk Factors",
+    "chunk_id": "chunk_006"
+  },
+  {
+    "question": "What is a potential outcome if the company is unable to manage future introductions and transitions of products and services?",
+    "ground_truth_answer": "the Company\u2019s business, reputation, results of operations, financial condition and stock price can be materially adversely affected",
+    "source_passage": "The Company may not be able to successfully manage future introductions and transitions of products and services, which can materially adversely affect the Company\u2019s business, reputation, results of operations, financial condition and stock price.",
+    "question_type": "fact_extraction",
+    "difficulty": "easy",
+    "section": "Risk Factors",
+    "chunk_id": "chunk_006"
+  },
+  {
+    "question": "What are some of the factors that contribute to the success of new product and service introductions?",
+    "ground_truth_answer": "the effective integration of third-party services and technologies into the Company\u2019s products and services",
+    "source_passage": "Success also relies on the Company\u2019s ability to manage the risks associated with new technologies and production ramp-up issues, the effective integration of third-party services and technologies into the Company\u2019s products and services, the availability, delivery and performance of application software or other third-party support for the Company\u2019s products and services, the effective management of manufacturing and other purchase commitments and the management of inventory levels in line with anticipated product demand, and the availability of products in appropriate quantities and at expected costs to meet anticipated demand.",
+    "question_type": "fact_extraction",
+    "difficulty": "medium",
+    "section": "Risk Factors",
+    "chunk_id": "chunk_006"
+  },
+  {
+    "question": "What is a potential risk associated with new product and service introductions?",
+    "ground_truth_answer": "quality issues or other defects or deficiencies",
+    "source_passage": "Additionally, quality issues or other defects or deficiencies can adversely affect the success of new product and service introductions and market acceptance.",
+    "question_type": "fact_extraction",
+    "difficulty": "easy",
+    "section": "Risk Factors",
+    "chunk_id": "chunk_006"
+  },
+  {
+    "question": "What is the Company's exposure to foreign exchange rate risk?",
+    "ground_truth_answer": "primarily to the Company being a net receiver of currencies other than the U.S. dollar",
+    "source_passage": "The Company\u2019s exposure to foreign exchange rate risk relates primarily to the Company being a net receiver of currencies other than the U.S. dollar.",
+    "question_type": "fact_extraction",
+    "difficulty": "easy",
+    "section": "Market Risk",
+    "chunk_id": "chunk_007"
+  },
+  {
+    "question": "What is the maximum expected loss in fair value of the Company's foreign currency derivative positions due to adverse movements in rates, with 95% confidence, as of September 27, 2025?",
+    "ground_truth_answer": "$590 million",
+    "source_passage": "Based on the results of the model, the Company estimates, with 95% confidence, a maximum one-day loss in fair value of $590 million and $538 million as of September\u00a027, 2025 and September\u00a028, 2024, respectively.",
+    "question_type": "fact_extraction",
+    "difficulty": "easy",
+    "section": "Market Risk",
+    "chunk_id": "chunk_007"
+  },
+  {
+    "question": "Why may the Company choose not to hedge certain foreign currency exposures?",
+    "ground_truth_answer": "including accounting considerations or prohibitive cost",
+    "source_passage": "However, the Company may choose to not hedge certain foreign currency exposures for a variety of reasons, including accounting considerations or prohibitive cost.",
+    "question_type": "fact_extraction",
+    "difficulty": "hard",
+    "section": "Market Risk",
+    "chunk_id": "chunk_007"
+  },
+  {
+    "question": "What is the relationship between the Company's foreign currency exposures and the fair values of its foreign currency derivatives?",
+    "ground_truth_answer": "generally offset changes in the fair values of the Company\u2019s foreign currency derivatives",
+    "source_passage": "Changes in the Company\u2019s underlying foreign currency exposures, which were excluded from the assessment, generally offset changes in the fair values of the Company\u2019s foreign currency derivatives.",
+    "question_type": "fact_extraction",
+    "difficulty": "hard",
+    "section": "Market Risk",
+    "chunk_id": "chunk_007"
+  },
+  {
+    "question": "What is the total net sales for the year ended September 27, 2025?",
+    "ground_truth_answer": "416,161",
+    "source_passage": "CONSOLIDATED STATEMENTS OF OPERATIONS (In millions, except number of shares, which are reflected in thousands, and per-share amounts) Years ended September 27, 2025 September 28, 2024 September 30, 2023 Net sales: Products $ 307,003 $ 294,866 $ 298,085 Services 109,158 96,169 85,200 Total net sales 416,161 391,035 383,285",
+    "question_type": "fact_extraction",
+    "difficulty": "easy",
+    "section": "Financial Statements",
+    "chunk_id": "chunk_008"
+  },
+  {
+    "question": "What is the par value of Apple Inc.'s common stock?",
+    "ground_truth_answer": "$0.00001",
+    "source_passage": "Common stock and additional paid-in capital, $ 0.00001 par value:",
+    "question_type": "fact_extraction",
+    "difficulty": "easy",
+    "section": "Financial Statements",
+    "chunk_id": "chunk_009"
+  },
+  {
+    "question": "What is the total amount of cash paid for income taxes, net, for the year ended September 27, 2025?",
+    "ground_truth_answer": "$43,369",
+    "source_passage": "Cash paid for income taxes, net $ 43,369 $ 26,102 $ 18,679",
+    "question_type": "fact_extraction",
+    "difficulty": "easy",
+    "section": "Financial Statements",
+    "chunk_id": "chunk_009"
+  },
+  {
+    "question": "What is the fiscal year of Apple Inc.?",
+    "ground_truth_answer": "The 52- or 53-week period that ends on the last Saturday of September.",
+    "source_passage": "The Company\u2019s fiscal year is the 52- or 53-week period that ends on the last Saturday of September.",
+    "question_type": "fact_extraction",
+    "difficulty": "easy",
+    "section": "Financial Statements",
+    "chunk_id": "chunk_010"
+  },
+  {
+    "question": "How often is an additional week included in the first fiscal quarter?",
+    "ground_truth_answer": "Every five or six years.",
+    "source_passage": "An additional week is included in the first fiscal quarter every five or six years to realign the Company\u2019s fiscal quarters with calendar quarters, which occurred in the first fiscal quarter of 2023.",
+    "question_type": "fact_extraction",
+    "difficulty": "easy",
+    "section": "Financial Statements",
+    "chunk_id": "chunk_010"
+  },
+  {
+    "question": "What is the method used to recognize share-based compensation expense?",
+    "ground_truth_answer": "Straight-line basis.",
+    "source_passage": "The Company recognizes share-based compensation expense on a straight-line basis for its estimate of equity awards that will ultimately vest.",
+    "question_type": "fact_extraction",
+    "difficulty": "easy",
+    "section": "Financial Statements",
+    "chunk_id": "chunk_010"
+  },
+  {
+    "question": "What is the maximum maturity of highly liquid investments treated as cash equivalents?",
+    "ground_truth_answer": "Three months or less.",
+    "source_passage": "All highly liquid investments with maturities of three months or less at the date of purchase are treated as cash equivalents.",
+    "question_type": "fact_extraction",
+    "difficulty": "easy",
+    "section": "Financial Statements",
+    "chunk_id": "chunk_010"
+  },
+  {
+    "question": "What is the method used to determine the cost of securities sold?",
+    "ground_truth_answer": "Specific identification method.",
+    "source_passage": "The cost of securities sold is determined using the specific identification method.",
+    "question_type": "fact_extraction",
+    "difficulty": "easy",
+    "section": "Financial Statements",
+    "chunk_id": "chunk_010"
+  },
+  {
+    "question": "How often does the Company's fiscal year span 53 weeks?",
+    "ground_truth_answer": "Every 5-6 years.",
+    "source_passage": "An additional week is included in the first fiscal quarter every five or six years to realign the Company\u2019s fiscal quarters with calendar quarters, which occurred in the first fiscal quarter of 2023.",
+    "question_type": "comparison",
+    "difficulty": "medium",
+    "section": "Financial Statements",
+    "chunk_id": "chunk_010"
+  },
+  {
+    "question": "What is the method used to account for lease and nonlease components?",
+    "ground_truth_answer": "Combined as a single lease component.",
+    "source_passage": "The Company combines and accounts for lease and nonlease components as a single lease component for leases of corporate and retail facilities.",
+    "question_type": "fact_extraction",
+    "difficulty": "easy",
+    "section": "Financial Statements",
+    "chunk_id": "chunk_010"
+  },
+  {
+    "question": "What is the reason for the Company to record reductions to Products net sales?",
+    "ground_truth_answer": "Future product returns, price protection, and other customer incentive programs.",
+    "source_passage": "The Company records reductions to Products net sales related to future product returns, price protection and other customer incentive programs based on the Company\u2019s expectations and historical experience.",
+    "question_type": "fact_extraction",
+    "difficulty": "easy",
+    "section": "Financial Statements",
+    "chunk_id": "chunk_010"
+  },
+  {
+    "question": "What is the method used to recognize revenue for the Company's Services net sales?",
+    "ground_truth_answer": "Over time as services are delivered.",
+    "source_passage": "For the Company\u2019s Services net sales, control transfers over time as services are delivered.",
+    "question_type": "fact_extraction",
+    "difficulty": "easy",
+    "section": "Financial Statements",
+    "chunk_id": "chunk_010"
+  },
+  {
+    "question": "What is the first material performance obligation in arrangements involving the sale of iPhone, Mac, and iPad?",
+    "ground_truth_answer": "The hardware and bundled software delivered at the time of sale.",
+    "source_passage": "The first material performance obligation, which represents the substantial portion of the allocated sales price, is the hardware and bundled software delivered at the time of sale.",
+    "question_type": "fact_extraction",
+    "difficulty": "easy",
+    "section": "Financial Statements",
+    "chunk_id": "chunk_011"
+  },
+  {
+    "question": "What is the method used to allocate revenue to all distinct performance obligations when observable prices are not available?",
+    "ground_truth_answer": "The Company\u2019s best estimates of what the selling prices of the performance obligations would be if they were sold regularly on a stand-alone basis.",
+    "source_passage": "When observable prices are not available, SSPs are established that reflect the Company\u2019s best estimates of what the selling prices of the performance obligations would be if they were sold regularly on a stand-alone basis.",
+    "question_type": "fact_extraction",
+    "difficulty": "easy",
+    "section": "Financial Statements",
+    "chunk_id": "chunk_011"
+  },
+  {
+    "question": "How does the Company account for third-party application\u2013related sales on the App Store?",
+    "ground_truth_answer": "The Company accounts for all third-party application\u2013related sales on a net basis by recognizing in Services net sales only the commission it retains.",
+    "source_passage": "For third-party applications sold through the App Store, the Company does not obtain control of the product before transferring it to the customer. Therefore, the Company accounts for all third-party application\u2013related sales on a net basis by recognizing in Services net sales only the commission it retains.",
+    "question_type": "fact_extraction",
+    "difficulty": "easy",
+    "section": "Financial Statements",
+    "chunk_id": "chunk_011"
+  },
+  {
+    "question": "What is the total net sales for 2025?",
+    "ground_truth_answer": "$416,161 million",
+    "source_passage": "The following table shows disaggregated net sales, as well as the portion of total net sales that was previously deferred, for 2025, 2024 and 2023 (in millions): 2025 2024 2023 iPhone $ 209,586 $ 201,183 $ 200,583 Mac 33,708 29,984 29,357 iPad 28,023 26,694 28,300 Wearables, Home and Accessories 35,686 37,005 39,845 Services (1) 109,158 96,169 85,200 Total net sales $ 416,161 $ 391,035 $ 383,285",
+    "question_type": "numeric_calculation",
+    "difficulty": "easy",
+    "section": "Financial Statements",
+    "chunk_id": "chunk_011"
+  },
+  {
+    "question": "What is the method used to recognize revenue allocated to product-related bundled services?",
+    "ground_truth_answer": "Revenue allocated to product-related bundled services is deferred and recognized on a straight-line basis over the estimated period they are expected to be provided.",
+    "source_passage": "Revenue allocated to product-related bundled services is deferred and recognized on a straight-line basis over the estimated period they are expected to be provided.",
+    "question_type": "fact_extraction",
+    "difficulty": "easy",
+    "section": "Financial Statements",
+    "chunk_id": "chunk_011"
+  },
+  {
+    "question": "What is the total deferred revenue as of September 27, 2025?",
+    "ground_truth_answer": "$13.7 billion",
+    "source_passage": "As of September 27, 2025 and September 28, 2024, the Company had total deferred revenue of $ 13.7 billion and $ 12.8 billion, respectively.",
+    "question_type": "numeric_calculation",
+    "difficulty": "easy",
+    "section": "Financial Statements",
+    "chunk_id": "chunk_011"
+  },
+  {
+    "question": "How does the Company determine whether it obtains control of third-party products?",
+    "ground_truth_answer": "The Company considers multiple factors, including evaluating if it can establish the price of the product, retains inventory risk for tangible products or has the responsibility for ensuring acceptability of the product.",
+    "source_passage": "For the sale of third-party products where the Company obtains control of the product before transferring it to the customer, the Company recognizes revenue based on the gross amount billed to customers. The Company considers multiple factors when determining whether it obtains control of third-party products, including evaluating if it can establish the price of the product, retains inventory risk for tangible products or has the responsibility for ensuring acceptability of the product.",
+    "question_type": "fact_extraction",
+    "difficulty": "medium",
+    "section": "Financial Statements",
+    "chunk_id": "chunk_011"
+  },
+  {
+    "question": "What is the fiscal year of the Company?",
+    "ground_truth_answer": "The 52- or 53-week period that ends on the last Saturday of September.",
+    "source_passage": "The Company\u2019s fiscal year is the 52- or 53-week period that ends on the last Saturday of September.",
+    "question_type": "fact_extraction",
+    "difficulty": "easy",
+    "section": "Business",
+    "chunk_id": "chunk_001"
+  },
+  {
+    "question": "What is the name of the Company's media streaming and gaming device based on its tvOS operating system?",
+    "ground_truth_answer": "Apple TV 4K",
+    "source_passage": "Apple TV 4K \u00ae , the Company\u2019s media streaming and gaming device based on its tvOS \u00ae operating system, and HomePod \u00ae and HomePod mini \u00ae , high-fidelity wireless smart speakers.",
+    "question_type": "fact_extraction",
+    "difficulty": "easy",
+    "section": "Business",
+    "chunk_id": "chunk_001"
+  },
+  {
+    "question": "What is the name of the Company's line of multipurpose tablets based on its iPadOS operating system?",
+    "ground_truth_answer": "iPad",
+    "source_passage": "iPad iPad \u00ae is the Company\u2019s line of multipurpose tablets based on its iPadOS \u00ae operating system.",
+    "question_type": "fact_extraction",
+    "difficulty": "easy",
+    "section": "Business",
+    "chunk_id": "chunk_001"
+  },
+  {
+    "question": "What is the name of the Company's line of wireless headphones?",
+    "ground_truth_answer": "AirPods, AirPods Pro, AirPods Max, and Beats products",
+    "source_passage": "The Company\u2019s line of wireless headphones includes AirPods \u00ae , AirPods Pro \u00ae , AirPods Max \u00ae and Beats \u00ae products.",
+    "question_type": "fact_extraction",
+    "difficulty": "easy",
+    "section": "Business",
+    "chunk_id": "chunk_001"
+  },
+  {
+    "question": "What is the name of the Company's line of desktops?",
+    "ground_truth_answer": "iMac, Mac mini, Mac Studio, and Mac Pro",
+    "source_passage": "The Mac line includes laptops MacBook Air \u00ae and MacBook Pro \u00ae , as well as desktops iMac \u00ae , Mac mini \u00ae , Mac Studio \u00ae and Mac Pro \u00ae .",
+    "question_type": "fact_extraction",
+    "difficulty": "easy",
+    "section": "Business",
+    "chunk_id": "chunk_001"
+  },
+  {
+    "question": "What is the name of the Company's line of laptops?",
+    "ground_truth_answer": "MacBook Air and MacBook Pro",
+    "source_passage": "The Mac line includes laptops MacBook Air \u00ae and MacBook Pro \u00ae , as well as desktops iMac \u00ae , Mac mini \u00ae , Mac Studio \u00ae and Mac Pro \u00ae .",
+    "question_type": "fact_extraction",
+    "difficulty": "easy",
+    "section": "Business",
+    "chunk_id": "chunk_001"
+  },
+  {
+    "question": "What is the name of the Company's line of spatial computers?",
+    "ground_truth_answer": "Apple Vision Pro",
+    "source_passage": "Apple Vision Pro\u2122 is the Company\u2019s spatial computer based on its visionOS \u00ae operating system.",
+    "question_type": "fact_extraction",
+    "difficulty": "easy",
+    "section": "Business",
+    "chunk_id": "chunk_001"
+  },
+  {
+    "question": "What is the name of the Company's line of high-fidelity wireless smart speakers?",
+    "ground_truth_answer": "HomePod and HomePod mini",
+    "source_passage": "Apple TV 4K \u00ae , the Company\u2019s media streaming and gaming device based on its tvOS \u00ae operating system, and HomePod \u00ae and HomePod mini \u00ae , high-fidelity wireless smart speakers.",
+    "question_type": "fact_extraction",
+    "difficulty": "easy",
+    "section": "Business",
+    "chunk_id": "chunk_001"
+  },
+  {
+    "question": "What is the name of the Company's line of game service?",
+    "ground_truth_answer": "Apple Arcade",
+    "source_passage": "The Company also offers digital content through subscription-based services, including Apple Arcade \u00ae , a game service;",
+    "question_type": "fact_extraction",
+    "difficulty": "easy",
+    "section": "Business",
+    "chunk_id": "chunk_001"
+  },
+  {
+    "question": "What percentage of the Company's net sales were through its direct distribution channels in 2025?",
+    "ground_truth_answer": "40%",
+    "source_passage": "During 2025, the Company\u2019s net sales through its direct and indirect distribution channels accounted for 40% and 60%, respectively, of total net sales.",
+    "question_type": "fact_extraction",
+    "difficulty": "easy",
+    "section": "Business",
+    "chunk_id": "chunk_002"
+  },
+  {
+    "question": "What percentage of the Company's net sales were through its indirect distribution channels in 2025?",
+    "ground_truth_answer": "60%",
+    "source_passage": "During 2025, the Company\u2019s net sales through its direct and indirect distribution channels accounted for 40% and 60%, respectively, of total net sales.",
+    "question_type": "fact_extraction",
+    "difficulty": "easy",
+    "section": "Business",
+    "chunk_id": "chunk_002"
+  },
+  {
+    "question": "What are some of the principal competitive factors important to the Company?",
+    "ground_truth_answer": "price, product and service features, relative price and performance, product and service quality and reliability, design and technology innovation, a strong third-party software and accessories ecosystem, marketing and distribution capability, service and support, corporate reputation, and the ability to effectively protect and enforce the Company\u2019s intellectual property rights.",
+    "source_passage": "Principal competitive factors important to the Company include price, product and service features (including security features), relative price and performance, product and service quality and reliability, design and technology innovation, a strong third-party software and accessories ecosystem, marketing and distribution capability, service and support, corporate reputation, and the ability to effectively protect and enforce the Company\u2019s intellectual property rights.",
+    "question_type": "fact_extraction",
+    "difficulty": "medium",
+    "section": "Business",
+    "chunk_id": "chunk_002"
+  },
+  {
+    "question": "What are some of the ways in which the Company's competitors seek to compete?",
+    "ground_truth_answer": "aggressive pricing and very low cost structures, and by imitating the Company\u2019s products and infringing on its intellectual property.",
+    "source_passage": "Many of the Company\u2019s competitors seek to compete primarily through aggressive pricing and very low cost structures, and by imitating the Company\u2019s products and infringing on its intellectual property.",
+    "question_type": "fact_extraction",
+    "difficulty": "medium",
+    "section": "Business",
+    "chunk_id": "chunk_002"
+  },
+  {
+    "question": "What are some of the challenges faced by the Company in terms of competition?",
+    "ground_truth_answer": "aggressive price competition, downward pressure on gross margins, continual improvement in product performance, and price sensitivity on the part of consumers and businesses.",
+    "source_passage": "The markets for the Company\u2019s products and services are highly competitive and are characterized by aggressive price competition, downward pressure on gross margins, continual improvement in product performance, and price sensitivity on the part of consumers and businesses.",
+    "question_type": "fact_extraction",
+    "difficulty": "hard",
+    "section": "Business",
+    "chunk_id": "chunk_002"
+  },
+  {
+    "question": "What are some of the ways in which the Company's competitors have been competing in the market?",
+    "ground_truth_answer": "aggressively cutting prices and lowering product margins.",
+    "source_passage": "Competition has been particularly intense as competitors have aggressively cut prices and lowered product margins.",
+    "question_type": "fact_extraction",
+    "difficulty": "medium",
+    "section": "Business",
+    "chunk_id": "chunk_002"
+  },
+  {
+    "question": "What are some of the characteristics of the markets in which the Company competes?",
+    "ground_truth_answer": "frequent introduction of new products and services, short product life cycles, evolving industry standards, and rapid adoption of technological advancements by competitors.",
+    "source_passage": "The markets in which the Company competes are further defined by frequent introduction of new products and services, short product life cycles, evolving industry standards, and rapid adoption of technological advancements by competitors.",
+    "question_type": "fact_extraction",
+    "difficulty": "hard",
+    "section": "Business",
+    "chunk_id": "chunk_002"
+  },
+  {
+    "question": "What section of the Form 10-K should this section be read in conjunction with?",
+    "ground_truth_answer": "Part II, Item 7, \u201cManagement\u2019s Discussion and Analysis of Financial Condition and Results of Operations\u201d and the consolidated financial statements and accompanying notes in Part II, Item 8, \u201cFinancial Statements and Supplementary Data\u201d",
+    "source_passage": "This section should be read in conjunction with Part II, Item 7, \u201cManagement\u2019s Discussion and Analysis of Financial Condition and Results of Operations\u201d and the consolidated financial statements and accompanying notes in Part II, Item 8, \u201cFinancial Statements and Supplementary Data\u201d of this Form 10-K.",
+    "question_type": "fact_extraction",
+    "difficulty": "easy",
+    "section": "Risk Factors",
+    "chunk_id": "chunk_003"
+  },
+  {
+    "question": "What are some examples of adverse economic conditions that can affect the Company's business?",
+    "ground_truth_answer": "slow growth or recession, high unemployment, inflation, tighter credit, higher interest rates, and currency fluctuations",
+    "source_passage": "Adverse macroeconomic conditions, including slow growth or recession, high unemployment, inflation, tighter credit, higher interest rates, and currency fluctuations, can adversely impact consumer confidence and spending and materially adversely affect demand for the Company\u2019s products and services.",
+    "question_type": "fact_extraction",
+    "difficulty": "easy",
+    "section": "Risk Factors",
+    "chunk_id": "chunk_003"
+  },
+  {
+    "question": "What can happen to the Company's trade receivables if there are adverse economic conditions?",
+    "ground_truth_answer": "increased credit and collectibility risk",
+    "source_passage": "Adverse economic conditions can also lead to increased credit and collectibility risk on the Company\u2019s trade receivables;",
+    "question_type": "fact_extraction",
+    "difficulty": "easy",
+    "section": "Risk Factors",
+    "chunk_id": "chunk_003"
+  },
+  {
+    "question": "What are some examples of business interruptions that can affect the Company's business?",
+    "ground_truth_answer": "political events, trade and other international disputes, geopolitical tensions, conflict, terrorism, natural disasters, public health issues, industrial accidents",
+    "source_passage": "The Company\u2019s business can be impacted by political events, trade and other international disputes, geopolitical tensions, conflict, terrorism, natural disasters, public health issues, industrial accidents and other business interruptions.",
+    "question_type": "fact_extraction",
+    "difficulty": "easy",
+    "section": "Risk Factors",
+    "chunk_id": "chunk_003"
+  },
+  {
+    "question": "Where does the Company perform a significant majority of its manufacturing?",
+    "ground_truth_answer": "China mainland, India, Japan, South Korea, Taiwan, and Vietnam",
+    "source_passage": "A significant majority of the Company\u2019s manufacturing is performed in whole or in part by outsourcing partners located primarily in China mainland, India, Japan, South Korea, Taiwan and Vietnam, in addition to sourcing from partners and facilities located in the U.S.",
+    "question_type": "fact_extraction",
+    "difficulty": "easy",
+    "section": "Risk Factors",
+    "chunk_id": "chunk_004"
+  },
+  {
+    "question": "What can restrictions on international trade do to the Company's business and supply chain?",
+    "ground_truth_answer": "Materially adversely affect the Company\u2019s business and supply chain",
+    "source_passage": "Restrictions on international trade, such as tariffs and other controls on imports or exports of goods, technology or data, can materially adversely affect the Company\u2019s business and supply chain.",
+    "question_type": "fact_extraction",
+    "difficulty": "easy",
+    "section": "Risk Factors",
+    "chunk_id": "chunk_004"
+  },
+  {
+    "question": "How can restrictive measures impact the Company's products and services?",
+    "ground_truth_answer": "Increase the cost or limit the availability",
+    "source_passage": "Restrictive measures can increase the cost or limit the availability of the Company\u2019s products and the components and rare earths and other raw materials that go into them.",
+    "question_type": "fact_extraction",
+    "difficulty": "easy",
+    "section": "Risk Factors",
+    "chunk_id": "chunk_004"
+  },
+  {
+    "question": "What is the impact of trade and other international disputes on the overall macroeconomic environment?",
+    "ground_truth_answer": "Adverse impact",
+    "source_passage": "Trade and other international disputes can also have an adverse impact on the overall macroeconomic environment and result in shifts and reductions in consumer spending and negative consumer sentiment for the Company\u2019s products and services, all of which can further adversely affect the Company\u2019s business and results of operations.",
+    "question_type": "fact_extraction",
+    "difficulty": "easy",
+    "section": "Risk Factors",
+    "chunk_id": "chunk_004"
+  },
+  {
+    "question": "What type of attacks can the Company's operations, retail stores, and facilities be subject to?",
+    "ground_truth_answer": "Ransomware and other cybersecurity attacks",
+    "source_passage": "In addition, the Company\u2019s and its suppliers\u2019 operations, retail stores and facilities are subject to the risk of interruption by fire, power shortages, nuclear power plant accidents and other industrial accidents, terrorist attacks and other hostile acts, ransomware and other cybersecurity attacks, labor disputes, public health issues and other events beyond the Company\u2019s control.",
+    "question_type": "fact_extraction",
+    "difficulty": "easy",
+    "section": "Risk Factors",
+    "chunk_id": "chunk_004"
+  },
+  {
+    "question": "What is the impact of new tariffs announced on imports to the U.S.?",
+    "ground_truth_answer": "Uncertain",
+    "source_passage": "The ultimate impact remains uncertain and will depend on several factors, including whether additional or incremental U.S. Tariffs or other measures are announced or imposed, to what extent other countries implement tariffs or other retaliatory measures in response, and the overall magnitude and duration of these measures.",
+    "question_type": "fact_extraction",
+    "difficulty": "medium",
+    "section": "Risk Factors",
+    "chunk_id": "chunk_004"
+  },
+  {
+    "question": "What is the potential impact of escalating geopolitical tensions or conflict on global supply chains?",
+    "ground_truth_answer": "Significant disruptions",
+    "source_passage": "Global supply chains can be highly concentrated, and an escalation of geopolitical tensions or conflict could result in significant disruptions.",
+    "question_type": "fact_extraction",
+    "difficulty": "medium",
+    "section": "Risk Factors",
+    "chunk_id": "chunk_004"
+  },
+  {
+    "question": "What is the potential impact of restrictive measures on the Company's business and results of operations?",
+    "ground_truth_answer": "Adversely affect the Company\u2019s business and results of operations",
+    "source_passage": "Restrictive measures can also require the Company to change suppliers, restructure business relationships and operations, refrain from offering and distributing or cease to offer and distribute affected products, services and third-party applications to its customers, and increase the prices of its products and services.",
+    "question_type": "multi_step_reasoning",
+    "difficulty": "hard",
+    "section": "Risk Factors",
+    "chunk_id": "chunk_004"
+  },
+  {
+    "question": "What type of events can make it difficult or impossible for the Company to manufacture and deliver products to its customers?",
+    "ground_truth_answer": "Such events",
+    "source_passage": "Such events can make it difficult or impossible for the Company to manufacture and deliver products to its customers, create delays and inefficiencies in the Company\u2019s supply and manufacturing chain, result in slowdowns and outages to the Company\u2019s service offerings, increase the Company\u2019s costs, and negatively impact consumer spending and demand in affected areas.",
+    "question_type": "fact_extraction",
+    "difficulty": "easy",
+    "section": "Risk Factors",
+    "chunk_id": "chunk_005"
+  },
+  {
+    "question": "What is the impact of pandemics on the Company?",
+    "ground_truth_answer": "They have adversely affected, and could in the future materially adversely affect, the Company due to their impact on the global economy and demand for consumer products.",
+    "source_passage": "Major public health issues, including pandemics such as the COVID-19 pandemic, have adversely affected, and could in the future materially adversely affect, the Company due to their impact on the global economy and demand for consumer products;",
+    "question_type": "fact_extraction",
+    "difficulty": "medium",
+    "section": "Risk Factors",
+    "chunk_id": "chunk_005"
+  },
+  {
+    "question": "What is the Company's business interruption recovery time like?",
+    "ground_truth_answer": "The Company can require substantial recovery time",
+    "source_passage": "Following any interruption to its business, the Company can require substantial recovery time, incur significant expenditures to resume operations, and lose significant sales.",
+    "question_type": "fact_extraction",
+    "difficulty": "easy",
+    "section": "Risk Factors",
+    "chunk_id": "chunk_005"
+  },
+  {
+    "question": "What is the impact of a business interruption affecting single or limited sources for the supply and manufacture of many critical components?",
+    "ground_truth_answer": "It would exacerbate any negative consequences to the Company",
+    "source_passage": "Because the Company relies on single or limited sources for the supply and manufacture of many critical components, a business interruption affecting such sources would exacerbate any negative consequences to the Company.",
+    "question_type": "fact_extraction",
+    "difficulty": "medium",
+    "section": "Risk Factors",
+    "chunk_id": "chunk_005"
+  },
+  {
+    "question": "What type of markets does the Company operate in?",
+    "ground_truth_answer": "Highly competitive global markets",
+    "source_passage": "Global markets for the Company\u2019s products and services are highly competitive and subject to rapid technological change, and the Company may be unable to compete effectively in these markets.",
+    "question_type": "fact_extraction",
+    "difficulty": "easy",
+    "section": "Risk Factors",
+    "chunk_id": "chunk_005"
+  },
+  {
+    "question": "What is the impact of regulatory requirements, government investigations, and litigation on the Company's intellectual property rights?",
+    "ground_truth_answer": "They can force the Company to withdraw from, or modify its products and services for, certain countries and limit its ability to derive value from, or to enjoin others from using, its intellectual property rights.",
+    "source_passage": "Regulatory requirements, government investigations and litigation can force the Company to withdraw from, or modify its products and services for, certain countries and limit its ability to derive value from, or to enjoin others from using, its intellectual property rights.",
+    "question_type": "fact_extraction",
+    "difficulty": "medium",
+    "section": "Risk Factors",
+    "chunk_id": "chunk_005"
+  },
+  {
+    "question": "What is the impact of regulatory requirements, government investigations, and litigation on the Company's ability to derive value from its intellectual property rights?",
+    "ground_truth_answer": "They can limit the Company's ability to derive value from its intellectual property rights",
+    "source_passage": "Regulatory requirements, government investigations and litigation can force the Company to withdraw from, or modify its products and services for, certain countries and limit its ability to derive value from, or to enjoin others from using, its intellectual property rights.",
+    "question_type": "fact_extraction",
+    "difficulty": "medium",
+    "section": "Risk Factors",
+    "chunk_id": "chunk_005"
+  },
+  {
+    "question": "What is the nature of the competition in the markets in which the Company operates?",
+    "ground_truth_answer": "aggressive pricing and very low cost structures",
+    "source_passage": "many of the Company\u2019s competitors seek to compete primarily through aggressive pricing and very low cost structures,",
+    "question_type": "fact_extraction",
+    "difficulty": "easy",
+    "section": "Risk Factors",
+    "chunk_id": "chunk_006"
+  },
+  {
+    "question": "What is the Company's market share in the global smartphone, personal computer, tablet and wearables markets?",
+    "ground_truth_answer": "a minority",
+    "source_passage": "The Company has a minority market share in the global smartphone, personal computer, tablet and wearables markets,",
+    "question_type": "fact_extraction",
+    "difficulty": "easy",
+    "section": "Risk Factors",
+    "chunk_id": "chunk_006"
+  },
+  {
+    "question": "What are some of the factors that affect the success of new product and service introductions?",
+    "ground_truth_answer": "the Company\u2019s ability to recruit and retain highly skilled personnel, and the timely and successful development and market acceptance of new products, services and technologies",
+    "source_passage": "The success of new product and service introductions depends on a number of factors, including the Company\u2019s ability to recruit and retain highly skilled personnel to execute on its strategic initiatives, and the timely and successful development and market acceptance of new products, services and technologies.",
+    "question_type": "fact_extraction",
+    "difficulty": "medium",
+    "section": "Risk Factors",
+    "chunk_id": "chunk_006"
+  },
+  {
+    "question": "What are some of the factors that affect the success of new product and service introductions?",
+    "ground_truth_answer": "quality issues or other defects or deficiencies",
+    "source_passage": "quality issues or other defects or deficiencies can adversely affect the success of new product and service introductions and market acceptance.",
+    "question_type": "fact_extraction",
+    "difficulty": "easy",
+    "section": "Risk Factors",
+    "chunk_id": "chunk_006"
+  },
+  {
+    "question": "What is the potential impact on the Company's business if it is unable to successfully manage future introductions and transitions of products and services?",
+    "ground_truth_answer": "materially adversely affected",
+    "source_passage": "The Company may not be able to successfully manage future introductions and transitions of products and services, which can materially adversely affect the Company\u2019s business, reputation, results of operations, financial condition and stock price.",
+    "question_type": "fact_extraction",
+    "difficulty": "easy",
+    "section": "Risk Factors",
+    "chunk_id": "chunk_006"
+  },
+  {
+    "question": "What is the Company's exposure to foreign exchange rate risk related to?",
+    "ground_truth_answer": "the Company being a net receiver of currencies other than the U.S. dollar",
+    "source_passage": "The Company\u2019s exposure to foreign exchange rate risk relates primarily to the Company being a net receiver of currencies other than the U.S. dollar.",
+    "question_type": "fact_extraction",
+    "difficulty": "easy",
+    "section": "Market Risk",
+    "chunk_id": "chunk_007"
+  },
+  {
+    "question": "What is the Company's maximum one-day loss in fair value of foreign currency derivative positions as of September 27, 2025?",
+    "ground_truth_answer": "$590 million",
+    "source_passage": "The VAR model used a Monte Carlo simulation. The VAR is the maximum expected loss in fair value, for a given confidence interval, to the Company\u2019s foreign currency derivative positions due to adverse movements in rates. Based on the results of the model, the Company estimates, with 95% confidence, a maximum one-day loss in fair value of $590 million and $538 million as of September\u00a027, 2025 and September\u00a028, 2024, respectively.",
+    "question_type": "fact_extraction",
+    "difficulty": "easy",
+    "section": "Market Risk",
+    "chunk_id": "chunk_007"
+  },
+  {
+    "question": "What is the impact on the Company's investment portfolio if interest rates increase by 100 basis points?",
+    "ground_truth_answer": "Decline in fair value $2,416",
+    "source_passage": "The following table sets forth potential impacts on the Company\u2019s investment portfolio and term debt, including the effects of any associated derivatives, that would result from a hypothetical increase in relevant interest rates as of September\u00a027, 2025 and September\u00a028, 2024 (dollars in millions): Interest Rate Sensitive Instrument Hypothetical Interest Rate Increase Potential Impact 2025 2024 Investment portfolio 100 basis points, all tenors Decline in fair value $ 2,416 $ 2,755",
+    "question_type": "fact_extraction",
+    "difficulty": "easy",
+    "section": "Market Risk",
+    "chunk_id": "chunk_007"
+  },
+  {
+    "question": "What is the impact on the Company's term debt if interest rates increase by 100 basis points?",
+    "ground_truth_answer": "Increase in annual interest expense $129",
+    "source_passage": "The following table sets forth potential impacts on the Company\u2019s investment portfolio and term debt, including the effects of any associated derivatives, that would result from a hypothetical increase in relevant interest rates as of September\u00a027, 2025 and September\u00a028, 2024 (dollars in millions): Interest Rate Sensitive Instrument Hypothetical Interest Rate Increase Potential Impact 2025 2024 Investment portfolio 100 basis points, all tenors Decline in fair value $ 2,416 $ 2,755 Term debt 100 basis points, all tenors Increase in annual interest expense $ 129 $ 139",
+    "question_type": "fact_extraction",
+    "difficulty": "easy",
+    "section": "Market Risk",
+    "chunk_id": "chunk_007"
+  },
+  {
+    "question": "What is the Company's strategy to protect against foreign exchange rate risk?",
+    "ground_truth_answer": "use derivative instruments, offset exposures, or adjust local currency pricing of its products and services",
+    "source_passage": "To protect against foreign exchange rate risk, the Company may use derivative instruments, offset exposures, or adjust local currency pricing of its products and services.",
+    "question_type": "fact_extraction",
+    "difficulty": "easy",
+    "section": "Market Risk",
+    "chunk_id": "chunk_007"
+  },
+  {
+    "question": "What is the Company's exposure to fluctuations in U.S. interest rates related to?",
+    "ground_truth_answer": "the Company\u2019s investment portfolio and term debt",
+    "source_passage": "The Company is primarily exposed to fluctuations in U.S. interest rates and their impact on the Company\u2019s investment portfolio and term debt.",
+    "question_type": "fact_extraction",
+    "difficulty": "easy",
+    "section": "Market Risk",
+    "chunk_id": "chunk_007"
+  },
+  {
+    "question": "What is the Company's estimated maximum one-day loss in fair value of foreign currency derivative positions as of September 28, 2024?",
+    "ground_truth_answer": "$538 million",
+    "source_passage": "The VAR model used a Monte Carlo simulation. The VAR is the maximum expected loss in fair value, for a given confidence interval, to the Company\u2019s foreign currency derivative positions due to adverse movements in rates. Based on the results of the model, the Company estimates, with 95% confidence, a maximum one-day loss in fair value of $590 million and $538 million as of September\u00a027, 2025 and September\u00a028, 2024, respectively.",
+    "question_type": "fact_extraction",
+    "difficulty": "easy",
+    "section": "Market Risk",
+    "chunk_id": "chunk_007"
+  },
+  {
+    "question": "What is the impact on the Company's investment portfolio and term debt if interest rates increase by 100 basis points, compared to the impact on the investment portfolio?",
+    "ground_truth_answer": "The investment portfolio declines in fair value, while the term debt increases in annual interest expense",
+    "source_passage": "The following table sets forth potential impacts on the Company\u2019s investment portfolio and term debt, including the effects of any associated derivatives, that would result from a hypothetical increase in relevant interest rates as of September\u00a027, 2025 and September\u00a028, 2024 (dollars in millions): Interest Rate Sensitive Instrument Hypothetical Interest Rate Increase Potential Impact 2025 2024 Investment portfolio 100 basis points, all tenors Decline in fair value $ 2,416 $ 2,755 Term debt 100 basis points, all tenors Increase in annual interest expense $ 129 $ 139",
+    "question_type": "comparison",
+    "difficulty": "medium",
+    "section": "Market Risk",
+    "chunk_id": "chunk_007"
+  },
+  {
+    "question": "What is the Company's strategy to protect against interest rate risk?",
+    "ground_truth_answer": "use derivative instruments, offset interest rate\u2013sensitive assets and liabilities, or control duration of the investment and term debt portfolios",
+    "source_passage": "To protect against interest rate risk, the Company may use derivative instruments, offset interest rate\u2013sensitive assets and liabilities, or control duration of the investment and term debt portfolios.",
+    "question_type": "fact_extraction",
+    "difficulty": "easy",
+    "section": "Market Risk",
+    "chunk_id": "chunk_007"
+  }
+]
