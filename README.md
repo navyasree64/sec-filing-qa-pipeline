@@ -2,7 +2,7 @@
 
 A pipeline that takes a 10-K SEC filing and automatically produces a verified dataset
 of question-answer pairs, suitable for benchmarking AI models on financial document
-understanding. Built for the Caliper Lab internship technical assignment.
+understanding.
 
 Uses Groq's free API (no credit card required, generous daily quota) so the entire
 pipeline can be run at zero cost.
